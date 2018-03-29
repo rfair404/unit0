@@ -1,4 +1,4 @@
 # Unit0 Contributors
 
-rfair404
-SimSolAtl
+* rfair404
+* SimSolAtl
